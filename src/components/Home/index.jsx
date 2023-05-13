@@ -12,9 +12,9 @@ export const Home = () => {
                  Acredito na importância de desafios que impulsionem o aprendizado contínuo, e estou entusiasmado em 
                  explorar novas possibilidades.</h3></p>
                  <p><h3>Aqui você encontrará uma visão geral
-                 <a href="Perfil"> sobre mim</a>, minhas habilidades,
-                 <a href="Cursos"> cursos</a> e meus
-                 <a href="Contato"> contatos</a>.</h3></p>
+                 <Link to="/perfil"> sobre mim</Link>, minhas habilidades,
+                 <Link to="/cursos"> cursos</Link> e meus
+                 <Link to="/contato"> contatos</Link>.</h3></p>
               </li>
             </ul>
           </div>
